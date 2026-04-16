@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 Low-Power SAR-ADC for PPG Signal Acquisition
 
-This repository includes the design files and simulation results of a 10-bit SAR ADC implemented in 180 nm CMOS technology, optimized for low-power biomedical applications such as photoplethysmogram (PPG) signal acquisition.
+This repository includes the design files and simulation results of a 10-bit SAR ADC implemented in 180 nm CMOS technology, optimized for low-power signal acquisition in Ground Penetrating Radar (GPR) systems.
 
 Project Overview
 
@@ -19,7 +19,7 @@ Architecture Details
 
 The design employs a monotonic switching SAR ADC architecture, recognized for its high power efficiency and reduced capacitor array size.
 
-The primary innovation is the time-domain comparator, implemented using a voltage-controlled delay line (VCDL), which significantly lowers power consumption compared to conventional dynamic comparators.
+
 
 Key components:
 
